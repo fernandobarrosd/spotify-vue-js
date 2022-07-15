@@ -1,24 +1,17 @@
-# spotify-vue-js
+# Spotify Vue JS
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<p>
+    É o site do Spotify
+    feito do zero, usando o Vue Js
+</p>
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+<small>
+    Site de referência:
+    <a href="https://www.spotify.com/br/premium/">
+</small>
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+<h2>Criador</h2>
+<p>Nome: Fernando de Barros</p>
