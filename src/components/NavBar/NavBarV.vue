@@ -5,15 +5,19 @@
 </template>
 
 <script>
-import NavBarMenuV from './NavBarMenuV.vue';
+import NavBarMenuV from '../NavBarMenu/NavBarMenuV.vue';
+
+
 export default {
     name: "NavBarV",
-    components: { 
-        NavBarMenuV 
+    components: {
+    NavBarMenuV
     }
 }
 </script>
 
 <style scoped>
-
+    nav {
+        margin-right: 100px;
+    }
 </style>

@@ -1,14 +1,14 @@
 <template>
     <ul class="navbar-menu-v">
-       <li v-for="menuItem in menuItems" :key="menuItem.id">
-            <a :href="menuItem.link">
-                {{menuItem.text}}
-            </a>
-       </li>
+       <MenuItem v-for="menuItem in menuItems" 
+       :key="menuItem.id"
+       :text="menuItem.text"
+       :link="menuItem.link"/>
     </ul>
 </template>
 
 <script>
+import MenuItem from '@/components/MenuItem/MenuItem.vue'
 export default {
     name: "NavBarMenuV",
     data() {
@@ -20,11 +20,16 @@ export default {
                 { id: 4, text: "Inscrever-se", link: "#" },
                 { id: 5, text: "Entrar", link: "#" }
             ]
-        }
-    }
+        };
+    },
+    components: { MenuItem }
 }
 </script>
 
 <style scoped>
+   ul {
+    display: flex;
+    gap: 25px;
     
+   }
 </style>
