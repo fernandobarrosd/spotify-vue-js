@@ -10,8 +10,6 @@
            text="Começar"/>
            <ButtonLinkV link="#"
            text="Ver planos"/>
-           <ButtonLinkV link="#"
-           text="Saiba mais"/>
         </div>
         <small>
             <a href="#">
