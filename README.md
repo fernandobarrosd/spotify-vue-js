@@ -9,7 +9,7 @@
 
 <small>
     Site de referência:
-    <a href="https://www.spotify.com/br/premium/">
+    https://www.spotify.com/br/premium/
 </small>
 
 
