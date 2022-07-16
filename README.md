@@ -11,7 +11,3 @@
     Site de referência:
     https://www.spotify.com/br/premium/
 </small>
-
-
-<h2>Criador</h2>
-<p>Nome: Fernando de Barros</p>
