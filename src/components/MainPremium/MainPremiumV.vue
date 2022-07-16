@@ -52,5 +52,7 @@ export default {
     }
     .cards-premium-v {
       display: flex;
+      flex-wrap: wrap;
+      
     }
 </style>

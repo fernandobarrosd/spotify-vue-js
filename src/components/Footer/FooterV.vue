@@ -24,7 +24,7 @@ export default {
 <style>
     footer {
         display: flex;
-        width: 100%;
+        width: 100vw;
         background-color: black;
         justify-content: space-around;
         padding-top: 50px;

@@ -22,10 +22,12 @@ export default {
 
 <style scoped>
     header {
+        width: 100vw;
         display: flex;
         justify-content: space-between;
         padding: 20px 20px 20px 20px;
         background-color: #000000;
+        align-items: center;
         
     }
 

@@ -10,6 +10,8 @@
            text="Começar"/>
            <ButtonLinkV link="#"
            text="Ver planos"/>
+           <ButtonLinkV link="#"
+           text="Saiba mais"/>
         </div>
         <small>
             <a href="#">
@@ -33,7 +35,7 @@ export default {
     .main-informations-v {
         margin-right: auto;
         background-color: #FFD4DB;
-        width: 100%;
+        width: 100vw;
         padding: 50px 40px 20px 80px;
         display: flex;
         flex-direction: column;
